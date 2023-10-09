@@ -43,10 +43,11 @@ jobs:
       matrix:
         distro:
           - rockylinux8
-          - fedora34
+          - fedora38
           - ubuntu2004
-          - ubuntu1804
+          - ubuntu2204
           - debian10
+          - debian11
 
     steps:
       - name: Check out the codebase.

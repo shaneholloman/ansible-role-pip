@@ -1,6 +1,6 @@
 # Ansible Role: Pip (for Python)
 
-[![CI](https://github.com/shaneholloman-org/ansible-role-pip/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman-org/ansible-role-pip/actions/workflows/ci.yml)
+[![CI](https://github.com/shaneholloman/ansible-role-pip/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman/ansible-role-pip/actions/workflows/ci.yml)
 
 An Ansible Role that installs [Pip](https://pip.pypa.io) on Linux.
 
@@ -78,4 +78,3 @@ MIT / BSD
 ## Author Information
 
 This role was created in 2023
-
