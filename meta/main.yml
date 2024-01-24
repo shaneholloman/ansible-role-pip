@@ -7,7 +7,7 @@ galaxy_info:
   description: Pip (Python package manager) for Linux.
   issue_tracker_url: https://github.com/shaneholloman/ansible-role-pip/issues
   company: "shaneholloman"
-  license: "MIT"
+  license: "license (Unlicense)"
   min_ansible_version: "2.10"
   platforms:
     - name: Fedora
